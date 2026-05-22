@@ -173,31 +173,31 @@ http://127.0.0.1:5000
 
 ## 📝 Student Information Form
 
-<img width="700" alt="Student Form" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/student-form.png">
+<img width="700" alt="Student Form" src="https://github.com/atiqurrehman112/university-ai-chatbot/blob/main/assets/student-form.png?raw=true">
 
 ---
 
 ## 💬 AI Chat Interface
 
-<img width="700" alt="AI Chat Interface" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/chat-interface.png">
+<img width="700" alt="AI Chat Interface" src="https://github.com/atiqurrehman112/university-ai-chatbot/blob/main/assets/chat-interface.png?raw=true">
 
 ---
 
 ## 🎤 Voice Assistant
 
-<img width="700" alt="Voice Assistant" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/voice-assistant.png">
+<img width="700" alt="Voice Assistant" src="https://github.com/atiqurrehman112/university-ai-chatbot/blob/main/assets/voice-assistant.png?raw=true">
 
 ---
 
 ## 📧 Email Session System
 
-<img width="700" alt="Email System" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/email-system.png">
+<img width="700" alt="Email System" src="https://github.com/atiqurrehman112/university-ai-chatbot/blob/main/assets/email-system.png?raw=true">
 
 ---
 
 ## 📚 PDF Knowledge Integration
 
-<img width="700" alt="PDF Integration" src="https://github.com/YOUR_USERNAME/YOUR_REPO/assets/pdf-integration.png">
+<img width="700" alt="PDF Integration" src="https://github.com/atiqurrehman112/university-ai-chatbot/blob/main/assets/pdf-integration.png?raw=true">
 
 ---
 
