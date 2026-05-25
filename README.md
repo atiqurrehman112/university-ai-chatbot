@@ -3,6 +3,11 @@
 An advanced AI-powered University Support Chatbot built using Python, Flask, Groq AI, JavaScript, HTML, and CSS.
 
 This project helps students get instant university-related guidance regarding admissions, exams, scholarships, hostel policies, career guidance, and more using conversational AI.
+---
+
+# 🚀 Live Demo
+
+🌐 [https://your-vercel-link.vercel.app](https://web-production-2b87.up.railway.app/)
 
 ---
 
